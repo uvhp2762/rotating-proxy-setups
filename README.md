@@ -1,4 +1,4 @@
-# rotating-proxy-setups# python rotating proxy: working requests, aiohttp and Scrapy setups for scrapers that keep getting 403s
+# python rotating proxy: working requests, aiohttp and Scrapy setups for scrapers that keep getting 403s
 
 You can write the rotation logic for `python rotating proxy` in about six lines. The hard part is everything around it: which IPs you're rotating through, when you decide to rotate, and what you do when the response you get back is a block page rather than data.
 
